@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ffhibnese
-- 👀 I’m interested in AI security, Generative model, Computer vision.
-- 🌱 I’m currently studying in Harbin Institute of technology(Shenzhen), majoring in computer science.
-- 📫 Welcome contact me at ffhibense@163.com
+- 👀 I’m interested in Trustworthy AI, Generative models, and Computer vision.
+- 🌱 I’m currently studying at SIGS, Tsinghua University, majoring in computer science.
+- 📫 Welcome contact me at fang-h23@mails.tsinghua.edu.cn
 - ✨ My [homepage](https://ffhibnese.github.io/)
 
 <!---
