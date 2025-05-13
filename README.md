@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FFHow
-- 👀 I’m interested in Trustworthy AI, Generative models, and Computer vision
+- 👀 I’m interested in Trustworthy AI, Large Language models, and Visual Generative models.
 - 🌱 I’m currently studying at SIGS, Tsinghua University, majoring in computer science and technology.
 - 📫 Welcome Contact me at fang-h23@mails.tsinghua.edu.cn
 - ✨ My [homepage](https://ffhibnese.github.io/)
